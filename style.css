@@ -23,6 +23,9 @@ span {
 .Main {
     padding-bottom: 5%;
 }
+.Text1 {
+    margin-bottom: 10%;
+}
 
 /* ids */
 
@@ -31,6 +34,7 @@ span {
     top: 20px;
     animation: pulse 2.5s infinite;
 }
+
 
 /* keyframes */
 @keyframes float{
